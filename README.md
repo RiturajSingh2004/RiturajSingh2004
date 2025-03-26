@@ -12,7 +12,7 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=swift&border=true)](https://github.com/piyushsuthar/github-readme-quotes)<br>
 <br>
-## 🛠️ My Skills
+## 🛠️ My Skills (+learning)
 
 <p align="center">
   <a href="https://skillicons.dev">
