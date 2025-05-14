@@ -40,10 +40,10 @@
 
 ## Top Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RiturajSingh2004&repo=YT-Summae-Synopsis&theme=swift)](https://github.com/RiturajSingh2004/YT-Summae-Synopsis)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RiturajSingh2004&repo=CounterAct-Mitigation&theme=swift)](https://github.com/RiturajSingh2004/CounterAct-Mitigation) <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="200">[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RiturajSingh2004/opencv-llm-tokenizer&theme=swift)](https://github.com/RiturajSingh2004/opencv-llm-tokenizer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RiturajSingh2004&repo=YT-Summae-Synopsis&theme=swift)](https://github.com/RiturajSingh2004/YT-Summae-Synopsis)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RiturajSingh2004&repo=CounterAct-Mitigation&theme=swift)](https://github.com/RiturajSingh2004/CounterAct-Mitigation) <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="200">[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RiturajSingh2004&repo=opencv-llm-tokenizer&theme=swift)](https://github.com/RiturajSingh2004/opencv-llm-tokenizer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RiturajSingh2004&repo=SenticWaveX&theme=swift)](https://github.com/RiturajSingh2004/SenticWaveX)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RiturajSingh2004/peptide-mz-calculator&theme=swift)](https://github.com/RiturajSingh2004/peptide-mz-calculator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RiturajSingh2004/HVAC-Optimization-Sys&theme=swift)](https://github.com/RiturajSingh2004/HVAC-Optimization-Sys)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RiturajSingh2004&repo=peptide-mz-calculator&theme=swift)](https://github.com/RiturajSingh2004/peptide-mz-calculator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RiturajSingh2004&repo=HVAC-Optimization-Sys&theme=swift)](https://github.com/RiturajSingh2004/HVAC-Optimization-Sys)
 
 ## Let's Connect
 
