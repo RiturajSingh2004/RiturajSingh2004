@@ -29,8 +29,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RiturajSingh2004&theme=ayu_mirage&utcOffset=8"></img>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RiturajSingh2004&theme=ayu_mirage"></img>
 </div>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RiturajSingh2004&radius=0&area=true&hide_title=false&hide_border=false&theme=synthwave-84&custom_title=My%20Contribution%20Graph" height="244" alt="activity-graph graph"  />
 <br>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RiturajSingh2004&theme=ayu_mirage"></img><br>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect whole experience or skill level.
