@@ -10,7 +10,47 @@
 
 <strong>Today's developer quotes</strong>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=swift&border=true)](https://github.com/piyushsuthar/github-readme-quotes)<br>
+> "He conquers all who conquers self."
+> — *The Song of the Sannyasin*, Swami Vivekananda
+
+<details>
+<summary><b>Show next quote</b></summary>
+<br>
+
+> "Where tireless striving stretches its arms towards perfection;"
+> — *Where the Mind is Without Fear*, Rabindranath Tagore
+
+</details>
+
+<details>
+<summary><b>Show next quote</b></summary>
+<br>
+
+> "To strive, to seek, to find, and not to yield."
+> — *Ulysses*, Alfred, Lord Tennyson
+
+</details>
+
+<details>
+<summary><b>Show next quote</b></summary>
+<br>
+
+> "If you can keep your head when all about you  
+> Are losing theirs and blaming it on you"
+> — *If*, Rudyard Kipling
+
+</details>
+
+<details>
+<summary><b>Show final quote</b></summary>
+<br>
+
+> "I am the master of my fate:  
+> I am the captain of my soul."
+> — *Invictus*, William Ernest Henley
+
+</details>
+
 <br>
 ## 🛠️ My Skills (+learning)
 
