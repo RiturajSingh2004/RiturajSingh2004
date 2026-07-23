@@ -1,9 +1,4 @@
-<iframe
-    src="https://drive.google.com/file/d/1PfgJGUPkIDenDdGaXz5hBi3_yRbP921J/preview"
-    width="100%"
-    height="700">
-</iframe>
-
+📄 **Resume:** https://drive.google.com/file/d/1PfgJGUPkIDenDdGaXz5hBi3_yRbP921J/view
 
 
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="480"></p>
