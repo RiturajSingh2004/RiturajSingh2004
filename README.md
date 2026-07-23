@@ -34,6 +34,15 @@
 <summary><b>Show next quote</b></summary>
 <br>
 
+> **"The old that is strong does not wither,
+> Deep roots are not reached by the frost."**
+>
+> — *The Fellowship of the Ring*, **J.R.R. Tolkien**
+
+<details>
+<summary><b>Show next quote</b></summary>
+<br>
+
 > **"If you can keep your head when all about you  
 > Are losing theirs and blaming it on you."**
 >
@@ -48,6 +57,7 @@
 >
 > — *Invictus*, **William Ernest Henley**
 
+</details>
 </details>
 </details>
 </details>
