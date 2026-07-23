@@ -97,7 +97,7 @@
 ## Let's Connect
 
 <p align="center"><a href="https://www.youtube.com/@RiturajSingh-ParadiseR"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/63338029-e963-463a-88cb-c8f39c73e8d9" width="175" ></a><br>
-  <a href="https://.github.io/"><img src="https://cdn-icons-png.flaticon.com/64/909/909263.png" alt="Website"/>&nbsp;</a>
+  <a href="https://drive.google.com/file/d/1PfgJGUPkIDenDdGaXz5hBi3_yRbP921J/view?usp=sharing/"><img src="https://cdn-icons-png.flaticon.com/64/909/909263.png" alt="Resume"/>&nbsp;</a>
 	<a href="mailto:ritturaj2004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"alt="Gmail"/>&nbsp;</a>
 	<a href="https://github.com/RiturajSingh2004"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>&nbsp;</a>
 	<a href="https://linkedin.com/in/riturajsingh2004"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>&nbsp;</a>
