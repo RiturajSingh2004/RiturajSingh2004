@@ -13,47 +13,40 @@
 > **"He conquers all who conquers self."**
 >
 > — *The Song of the Sannyasin*, **Swami Vivekananda**
-
 <details>
+	
 <summary><b>Show next quote</b></summary>
-
-
+<br>
 > **"Where tireless striving stretches its arms towards perfection;"**
 >
 > — *Where the Mind is Without Fear*, **Rabindranath Tagore**
-
 <details>
+	
 <summary><b>Show next quote</b></summary>
-
-
+<br>
 > **"To strive, to seek, to find, and not to yield."**
 >
 > — *Ulysses*, **Alfred, Lord Tennyson**
-
 <details>
+	
 <summary><b>Show next quote</b></summary>
-
-
+<br>
 > **"If you can keep your head when all about you  
 > Are losing theirs and blaming it on you."**
 >
 > — *If—*, **Rudyard Kipling**
-
 <details>
+	
 <summary><b>Show final quote</b></summary>
-
-
+<br>
 > **"I am the master of my fate:  
 > I am the captain of my soul."**
 >
 > — *Invictus*, **William Ernest Henley**
 
 </details>
-
 </details>
-
 </details>
-
 </details>
 
 <br>
