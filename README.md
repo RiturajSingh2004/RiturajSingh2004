@@ -1,5 +1,8 @@
-<iframe src="https://drive.google.com/file/d/1PfgJGUPkIDenDdGaXz5hBi3_yRbP921J/view?usp=sharing" width="100%" height="600px" allow="autoplay"></iframe>
-
+<iframe
+    src="https://drive.google.com/file/d/1PfgJGUPkIDenDdGaXz5hBi3_yRbP921J/preview"
+    width="100%"
+    height="700">
+</iframe>
 
 
 
