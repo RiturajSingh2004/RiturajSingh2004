@@ -4,7 +4,7 @@
     <img
       src="assets/resume-preview.png"
       alt="Resume Preview"
-      width="800">
+      width="500">
   </a>
 </p>
 
