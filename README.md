@@ -17,12 +17,14 @@
 <details>
 <summary><b>Show next quote</b></summary>
 
+
 > **"Where tireless striving stretches its arms towards perfection;"**
 >
 > — *Where the Mind is Without Fear*, **Rabindranath Tagore**
 
 <details>
 <summary><b>Show next quote</b></summary>
+
 
 > **"To strive, to seek, to find, and not to yield."**
 >
@@ -31,6 +33,7 @@
 <details>
 <summary><b>Show next quote</b></summary>
 
+
 > **"If you can keep your head when all about you  
 > Are losing theirs and blaming it on you."**
 >
@@ -38,6 +41,7 @@
 
 <details>
 <summary><b>Show final quote</b></summary>
+
 
 > **"I am the master of my fate:  
 > I am the captain of my soul."**
@@ -51,7 +55,6 @@
 </details>
 
 </details>
-
 
 <br>
 ## 🛠️ My Skills (+learning)
