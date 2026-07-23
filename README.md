@@ -34,7 +34,7 @@
 <summary><b>Show next quote</b></summary>
 <br>
 
-> **"The old that is strong does not wither,
+> **"The old that is strong does not wither,  
 > Deep roots are not reached by the frost."**
 >
 > — *The Fellowship of the Ring*, **J.R.R. Tolkien**
