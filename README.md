@@ -1,9 +1,10 @@
 ## 📄 Resume
 <p align="center">
   <a href="https://drive.google.com/file/d/1PfgJGUPkIDenDdGaXz5hBi3_yRbP921J/view">
-    <img src="assets/resume-preview.png"
-         alt="Resume Preview"
-         width="650">
+    <img
+      src="assets/resume-preview.png"
+      alt="Resume Preview"
+      width="1000">
   </a>
 </p>
 
