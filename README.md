@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1PfgJGUPkIDenDdGaXz5hBi3_yRbP921J/view">
+  <a href="https://drive.google.com/file/d/1ytAkmTAARJ12zzWm7ZgZ8aP4oorGO76u/view">
     <strong>📄 View Full Resume (PDF)</strong>
   </a>
 </p>
